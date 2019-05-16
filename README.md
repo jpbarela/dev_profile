@@ -4,7 +4,7 @@ This repo contains some basic tools and a sample `.bash_profile` to help bootstr
 
 ## Git
 ### Completion
-Completion is provided via Homebrew on Mac, `brew install bash-completion`.  
+Completion is provided via Homebrew on Mac, `brew install git bash-completion`.  
 
 ### Editor
 Changing the default editor to emacs, `git config --global core.editor "emacs"`
